@@ -1,17 +1,20 @@
 # Análisis de Ventas de Tienda Online
 
-Este proyecto analiza los datos de ventas de una tienda online utilizando Python (Pandas, NumPy) y Power BI para las visualizaciones.
+Este proyecto analiza datos de ventas utilizando:
 
-## Contenido
-- Análisis de datos con Python
-- Visualización de ventas por producto, región y tiempo en Power BI
-- Archivos incluidos:
-- CSV de ventas
-- Script de análisis en Python
-- Dashboard de Power BI
-
-## Herramientas utilizadas
+## 🛠 Tecnologías utilizadas
 - Python
 - Pandas
 - NumPy
 - Power BI
+- Git
+
+## 📄 Contenido
+- Análisis de datos con Python
+- Visualización de resultados en Power BI
+- Dashboard interactivo
+
+## 📁 Archivos
+- `ventas_tienda_online.csv`
+- `analisis_ventas.py`
+- `dashboard_ventas.pbix`
